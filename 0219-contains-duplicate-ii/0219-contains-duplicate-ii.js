@@ -4,13 +4,12 @@
  * @return {boolean}
  */
 var containsNearbyDuplicate = function(nums, k) {
-    const length = nums.length
+    const visited = new Map();
     for (let i = 0; i < nums.length; i++) {
-        for (let j = i+1; j < i+k+1 && j < length; j++) {
-            if (nums[i] === nums[j]) {
-                return true;
-            }
+        if (visited.has(nums[i]) && i - visited.get(nums[i]) <= k) {
+            return true;
         }
+        visited.set(nums[i], i)
     }
     return false;
 };
