@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Eastar-DS/Algorithm/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/Eastar-DS/Algorithm/tree/master/0290-word-pattern) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Eastar-DS/Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Eastar-DS/Algorithm/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
