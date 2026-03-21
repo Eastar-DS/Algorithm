@@ -27,10 +27,6 @@ var hasGroupsSizeX = function (deck) {
         return false;
     }
 
-    // if (!Array.from(map.values()).some((value) => value % gcd !== 0)) {
-    //     return true;
-    // }
-
     return true;
 
 };
