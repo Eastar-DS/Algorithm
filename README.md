@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Eastar-DS/Algorithm/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Eastar-DS/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Eastar-DS/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Eastar-DS/Algorithm/tree/master/0283-move-zeroes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Eastar-DS/Algorithm/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Eastar-DS/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Eastar-DS/Algorithm/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Eastar-DS/Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Eastar-DS/Algorithm/tree/master/0344-reverse-string) |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Eastar-DS/Algorithm/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Eastar-DS/Algorithm/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
