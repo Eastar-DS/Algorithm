@@ -1,26 +1,27 @@
 function longestOnes(nums: number[], k: number): number {
-    let flip = [];
+    let left = 0;
+    let right = 0;
+    let flip = 0;
     let result = 0;
-    let temp = 0;
 
     for (let i = 0; i < nums.length; i++) {
         if (nums[i] === 1) {
-            temp++;
+            right ++;
         } else {
-            if (flip.length < k) {
-                flip.push(i);
-                temp++;
-            } else if (k === 0) {
-                temp = 0
+            if (flip < k) {
+                flip++;
+                right ++;
             } else {
-                temp = i - flip[0];
-                flip.shift();
-                flip.push(i);
-            }
-        }
-        result = Math.max(result, temp);
+                while (nums[left] === 1) {
+                    left ++;
+                };
+                left ++;
+                right ++;
+            };
+        };
+        result = Math.max(result, right - left)
     };
-
+    
     return result;
 
 };
