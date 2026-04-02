@@ -34,23 +34,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Eastar-DS/Algorithm/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Eastar-DS/Algorithm/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Eastar-DS/Algorithm/tree/master/0344-reverse-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Eastar-DS/Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Eastar-DS/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Eastar-DS/Algorithm/tree/master/0290-word-pattern) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Eastar-DS/Algorithm/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Eastar-DS/Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Eastar-DS/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Eastar-DS/Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eastar-DS/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Eastar-DS/Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Eastar-DS/Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Eastar-DS/Algorithm/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Eastar-DS/Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
