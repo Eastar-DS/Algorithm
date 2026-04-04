@@ -4,7 +4,6 @@ function divisorSubstrings(num: number, k: number): number {
     
     for (let i = 0; i < numString.length - k + 1; i++ ) {
         const testNum = Number(numString.slice(i,i+k));
-        console.log(testNum);
         if (testNum === 0) {
             continue;
         }
