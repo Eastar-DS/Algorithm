@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Eastar-DS/Algorithm/tree/master/0066-plus-one) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Eastar-DS/Algorithm/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Eastar-DS/Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Eastar-DS/Algorithm/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Eastar-DS/Algorithm/tree/master/0344-reverse-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Eastar-DS/Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Eastar-DS/Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Eastar-DS/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Eastar-DS/Algorithm/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Eastar-DS/Algorithm/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Eastar-DS/Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Counting
 |  |
 | ------- |
