@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Eastar-DS/Algorithm/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Eastar-DS/Algorithm/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Eastar-DS/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eastar-DS/Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Eastar-DS/Algorithm/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eastar-DS/Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Eastar-DS/Algorithm/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Eastar-DS/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
