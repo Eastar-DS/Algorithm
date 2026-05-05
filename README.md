@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Eastar-DS/Algorithm/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Eastar-DS/Algorithm/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Eastar-DS/Algorithm/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Eastar-DS/Algorithm/tree/master/0509-fibonacci-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Eastar-DS/Algorithm/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Eastar-DS/Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
@@ -92,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Eastar-DS/Algorithm/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Eastar-DS/Algorithm/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Eastar-DS/Algorithm/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Eastar-DS/Algorithm/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Eastar-DS/Algorithm/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
